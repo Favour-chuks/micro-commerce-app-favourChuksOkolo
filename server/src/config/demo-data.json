@@ -1,0 +1,1398 @@
+{
+  "users": [
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "name": "Adebayo Johnson",
+      "email": "adebayo.j@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword1",
+      "created_at": "2024-01-15T10:30:00+01:00",
+      "updated_at": "2024-01-15T10:30:00"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "name": "Chioma Okafor",
+      "email": "chioma.o@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword2",
+      "created_at": "2024-02-20T14:15:00+01:00",
+      "updated_at": "2024-02-20T14:15:00"
+    },
+    {
+      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "name": "Ibrahim Musa",
+      "email": "ibrahim.m@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword3",
+      "created_at": "2024-03-10T09:45:00+01:00",
+      "updated_at": "2024-03-10T09:45:00"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "name": "Funmilayo Adeleke",
+      "email": "funmi.a@example.com",
+      "role": "admin",
+      "password": "$2a$10$hashedpassword4",
+      "created_at": "2023-12-01T08:00:00+01:00",
+      "updated_at": "2024-01-10T11:20:00"
+    },
+    {
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "name": "Emeka Nwosu",
+      "email": "emeka.n@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword5",
+      "created_at": "2024-04-05T16:30:00+01:00",
+      "updated_at": "2024-04-05T16:30:00"
+    },
+    {
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "name": "Aisha Bello",
+      "email": "aisha.b@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword6",
+      "created_at": "2024-05-12T13:20:00+01:00",
+      "updated_at": "2024-05-12T13:20:00"
+    },
+    {
+      "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "name": "Oluwaseun Adeyemi",
+      "email": "seun.a@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword7",
+      "created_at": "2024-06-08T10:15:00+01:00",
+      "updated_at": "2024-06-08T10:15:00"
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "name": "Ngozi Eze",
+      "email": "ngozi.e@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword8",
+      "created_at": "2024-07-03T15:45:00+01:00",
+      "updated_at": "2024-07-03T15:45:00"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "name": "Yusuf Abdullahi",
+      "email": "yusuf.a@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword9",
+      "created_at": "2024-08-14T09:30:00+01:00",
+      "updated_at": "2024-08-14T09:30:00"
+    },
+    {
+      "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "name": "Blessing Okonkwo",
+      "email": "blessing.o@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword10",
+      "created_at": "2024-09-01T11:00:00+01:00",
+      "updated_at": "2024-09-01T11:00:00"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
+      "name": "Chukwuemeka Obi",
+      "email": "chukwu.o@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword11",
+      "created_at": "2024-09-10T14:25:00+01:00",
+      "updated_at": "2024-09-10T14:25:00"
+    },
+    {
+      "id": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
+      "name": "Fatima Mohammed",
+      "email": "fatima.m@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword12",
+      "created_at": "2024-09-15T16:40:00+01:00",
+      "updated_at": "2024-09-15T16:40:00"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
+      "name": "Tunde Bakare",
+      "email": "tunde.b@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword13",
+      "created_at": "2024-09-20T12:10:00+01:00",
+      "updated_at": "2024-09-20T12:10:00"
+    },
+    {
+      "id": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
+      "name": "Amara Okoro",
+      "email": "amara.o@example.com",
+      "role": "user",
+      "password": "$2a$10$hashedpassword14",
+      "created_at": "2024-09-25T08:50:00+01:00",
+      "updated_at": "2024-09-25T08:50:00"
+    },
+    {
+      "id": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
+      "name": "Kehinde Olatunji",
+      "email": "kehinde.o@example.com",
+      "role": "admin",
+      "password": "$2a$10$hashedpassword15",
+      "created_at": "2024-09-28T17:30:00+01:00",
+      "updated_at": "2024-09-28T17:30:00"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Mobile phones, laptops, and electronic accessories"
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "slug": "fashion",
+      "description": "Clothing, shoes, and accessories for men and women"
+    },
+    {
+      "id": 3,
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "description": "Furniture, appliances, and kitchen essentials"
+    },
+    {
+      "id": 4,
+      "name": "Beauty & Personal Care",
+      "slug": "beauty-personal-care",
+      "description": "Skincare, makeup, and grooming products"
+    },
+    {
+      "id": 5,
+      "name": "Sports & Fitness",
+      "slug": "sports-fitness",
+      "description": "Exercise equipment, sportswear, and accessories"
+    },
+    {
+      "id": 6,
+      "name": "Books & Stationery",
+      "slug": "books-stationery",
+      "description": "Books, notebooks, and office supplies"
+    },
+    {
+      "id": 7,
+      "name": "Baby & Kids",
+      "slug": "baby-kids",
+      "description": "Baby products, toys, and children's essentials"
+    },
+    {
+      "id": 8,
+      "name": "Groceries & Food",
+      "slug": "groceries-food",
+      "description": "Food items, beverages, and pantry staples"
+    },
+    {
+      "id": 9,
+      "name": "Automotive",
+      "slug": "automotive",
+      "description": "Car accessories, parts, and maintenance products"
+    },
+    {
+      "id": 10,
+      "name": "Health & Wellness",
+      "slug": "health-wellness",
+      "description": "Supplements, medical supplies, and wellness products"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "title": "Samsung Galaxy A54",
+      "description": "Latest Samsung smartphone with 128GB storage, 6.4\" display",
+      "price_kobo": 35000000,
+      "currency": "NGN",
+      "sku": "ELEC-SAM-A54",
+      "inventory_count": 50,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-01-10T10:00:00",
+      "updated_at": "2024-09-15T12:00:00+01:00",
+      "images": ["https://example.com/img/samsung-a54-1.jpg", "https://example.com/img/samsung-a54-2.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 13",
+      "description": "Apple iPhone 13 with 128GB storage, A15 Bionic chip",
+      "price_kobo": 75000000,
+      "currency": "NGN",
+      "sku": "ELEC-APL-IP13",
+      "inventory_count": 30,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-01-10T10:00:00",
+      "updated_at": "2024-09-15T12:00:00+01:00",
+      "images": ["https://example.com/img/iphone13-1.jpg", "https://example.com/img/iphone13-2.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "HP Pavilion Laptop",
+      "description": "15.6\" laptop, Intel Core i5, 8GB RAM, 512GB SSD",
+      "price_kobo": 55000000,
+      "currency": "NGN",
+      "sku": "ELEC-HP-PAV15",
+      "inventory_count": 25,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-01-15T10:00:00",
+      "updated_at": "2024-09-20T12:00:00+01:00",
+      "images": ["https://example.com/img/hp-pavilion.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "Wireless Earbuds Pro",
+      "description": "Noise-cancelling wireless earbuds with charging case",
+      "price_kobo": 1500000,
+      "currency": "NGN",
+      "sku": "ELEC-EARBUDS-01",
+      "inventory_count": 150,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-02-01T10:00:00",
+      "updated_at": "2024-09-25T12:00:00+01:00",
+      "images": ["https://example.com/img/earbuds.jpg"]
+    },
+    {
+      "id": 5,
+      "title": "Smart Watch Series 7",
+      "description": "Fitness tracker with heart rate monitor and GPS",
+      "price_kobo": 4500000,
+      "currency": "NGN",
+      "sku": "ELEC-WATCH-S7",
+      "inventory_count": 80,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-02-05T10:00:00",
+      "updated_at": "2024-09-28T12:00:00+01:00",
+      "images": ["https://example.com/img/smartwatch.jpg"]
+    },
+    {
+      "id": 6,
+      "title": "Gaming Mouse RGB",
+      "description": "High-precision gaming mouse with customizable RGB lighting",
+      "price_kobo": 850000,
+      "currency": "NGN",
+      "sku": "ELEC-MOUSE-RGB",
+      "inventory_count": 120,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-02-10T10:00:00",
+      "updated_at": "2024-10-01T12:00:00+01:00",
+      "images": ["https://example.com/img/gaming-mouse.jpg"]
+    },
+    {
+      "id": 7,
+      "title": "4K Webcam",
+      "description": "Ultra HD webcam with auto-focus and noise reduction",
+      "price_kobo": 2800000,
+      "currency": "NGN",
+      "sku": "ELEC-WEBCAM-4K",
+      "inventory_count": 65,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-02-15T10:00:00",
+      "updated_at": "2024-10-02T12:00:00+01:00",
+      "images": ["https://example.com/img/webcam.jpg"]
+    },
+    {
+      "id": 8,
+      "title": "Portable Power Bank 20000mAh",
+      "description": "High-capacity power bank with fast charging",
+      "price_kobo": 1200000,
+      "currency": "NGN",
+      "sku": "ELEC-PBANK-20K",
+      "inventory_count": 200,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-02-20T10:00:00",
+      "updated_at": "2024-10-03T12:00:00+01:00",
+      "images": ["https://example.com/img/powerbank.jpg"]
+    },
+    {
+      "id": 9,
+      "title": "Bluetooth Speaker Waterproof",
+      "description": "Portable waterproof speaker with 360° sound",
+      "price_kobo": 1800000,
+      "currency": "NGN",
+      "sku": "ELEC-SPEAK-BT",
+      "inventory_count": 95,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-02-25T10:00:00",
+      "updated_at": "2024-10-04T12:00:00+01:00",
+      "images": ["https://example.com/img/speaker.jpg"]
+    },
+    {
+      "id": 10,
+      "title": "USB-C Hub 7-in-1",
+      "description": "Multi-port USB hub with HDMI and card reader",
+      "price_kobo": 950000,
+      "currency": "NGN",
+      "sku": "ELEC-HUB-7IN1",
+      "inventory_count": 140,
+      "category_id": 1,
+      "is_active": true,
+      "created_at": "2024-03-01T10:00:00",
+      "updated_at": "2024-10-05T12:00:00+01:00",
+      "images": ["https://example.com/img/usb-hub.jpg"]
+    },
+    {
+      "id": 11,
+      "title": "Men's Ankara Shirt",
+      "description": "Traditional Ankara print shirt, 100% cotton",
+      "price_kobo": 850000,
+      "currency": "NGN",
+      "sku": "FASH-MEN-ANK01",
+      "inventory_count": 80,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-01-20T10:00:00",
+      "updated_at": "2024-09-10T12:00:00+01:00",
+      "images": ["https://example.com/img/ankara-shirt.jpg"]
+    },
+    {
+      "id": 12,
+      "title": "Women's Maxi Dress",
+      "description": "Elegant floral print maxi dress, perfect for events",
+      "price_kobo": 1200000,
+      "currency": "NGN",
+      "sku": "FASH-WOM-MAX01",
+      "inventory_count": 60,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-01-25T10:00:00",
+      "updated_at": "2024-09-12T12:00:00+01:00",
+      "images": ["https://example.com/img/maxi-dress-1.jpg", "https://example.com/img/maxi-dress-2.jpg"]
+    },
+    {
+      "id": 13,
+      "title": "Nike Air Max Sneakers",
+      "description": "Comfortable running shoes, various sizes available",
+      "price_kobo": 3500000,
+      "currency": "NGN",
+      "sku": "FASH-SHOE-NIKE01",
+      "inventory_count": 45,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-02-10T10:00:00",
+      "updated_at": "2024-09-18T12:00:00+01:00",
+      "images": ["https://example.com/img/nike-airmax.jpg"]
+    },
+    {
+      "id": 14,
+      "title": "Leather Handbag",
+      "description": "Premium leather handbag with multiple compartments",
+      "price_kobo": 2500000,
+      "currency": "NGN",
+      "sku": "FASH-BAG-LTH01",
+      "inventory_count": 35,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-02-15T10:00:00",
+      "updated_at": "2024-09-20T12:00:00+01:00",
+      "images": ["https://example.com/img/handbag.jpg"]
+    },
+    {
+      "id": 15,
+      "title": "Men's Polo Shirt Pack",
+      "description": "Pack of 3 premium cotton polo shirts",
+      "price_kobo": 1500000,
+      "currency": "NGN",
+      "sku": "FASH-MEN-POLO3",
+      "inventory_count": 70,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-03-01T10:00:00",
+      "updated_at": "2024-09-25T12:00:00+01:00",
+      "images": ["https://example.com/img/polo-pack.jpg"]
+    },
+    {
+      "id": 16,
+      "title": "Women's Heel Sandals",
+      "description": "Elegant heel sandals for formal occasions",
+      "price_kobo": 1800000,
+      "currency": "NGN",
+      "sku": "FASH-WOM-HEEL01",
+      "inventory_count": 50,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-03-05T10:00:00",
+      "updated_at": "2024-09-28T12:00:00+01:00",
+      "images": ["https://example.com/img/heel-sandals.jpg"]
+    },
+    {
+      "id": 17,
+      "title": "Designer Sunglasses",
+      "description": "UV protection sunglasses with premium frame",
+      "price_kobo": 950000,
+      "currency": "NGN",
+      "sku": "FASH-ACC-SUNG01",
+      "inventory_count": 110,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-03-10T10:00:00",
+      "updated_at": "2024-09-30T12:00:00+01:00",
+      "images": ["https://example.com/img/sunglasses.jpg"]
+    },
+    {
+      "id": 18,
+      "title": "Denim Jeans Men",
+      "description": "Classic fit denim jeans, multiple sizes",
+      "price_kobo": 1350000,
+      "currency": "NGN",
+      "sku": "FASH-MEN-JEAN01",
+      "inventory_count": 85,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-03-15T10:00:00",
+      "updated_at": "2024-10-01T12:00:00+01:00",
+      "images": ["https://example.com/img/denim-jeans.jpg"]
+    },
+    {
+      "id": 19,
+      "title": "Wristwatch Classic",
+      "description": "Elegant analog wristwatch with leather strap",
+      "price_kobo": 2200000,
+      "currency": "NGN",
+      "sku": "FASH-ACC-WATCH01",
+      "inventory_count": 65,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-03-20T10:00:00",
+      "updated_at": "2024-10-02T12:00:00+01:00",
+      "images": ["https://example.com/img/wristwatch.jpg"]
+    },
+    {
+      "id": 20,
+      "title": "Winter Jacket Unisex",
+      "description": "Warm winter jacket with hood, water-resistant",
+      "price_kobo": 3800000,
+      "currency": "NGN",
+      "sku": "FASH-JACK-WIN01",
+      "inventory_count": 40,
+      "category_id": 2,
+      "is_active": true,
+      "created_at": "2024-03-25T10:00:00",
+      "updated_at": "2024-10-03T12:00:00+01:00",
+      "images": ["https://example.com/img/winter-jacket.jpg"]
+    },
+    {
+      "id": 21,
+      "title": "Blender 1.5L",
+      "description": "High-speed blender, perfect for smoothies and soups",
+      "price_kobo": 2200000,
+      "currency": "NGN",
+      "sku": "HOME-BLD-001",
+      "inventory_count": 70,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-01-30T10:00:00",
+      "updated_at": "2024-09-22T12:00:00+01:00",
+      "images": ["https://example.com/img/blender.jpg"]
+    },
+    {
+      "id": 22,
+      "title": "Non-Stick Cookware Set",
+      "description": "10-piece non-stick pots and pans set",
+      "price_kobo": 1800000,
+      "currency": "NGN",
+      "sku": "HOME-COOK-SET01",
+      "inventory_count": 50,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-02-05T10:00:00",
+      "updated_at": "2024-09-25T12:00:00+01:00",
+      "images": ["https://example.com/img/cookware.jpg"]
+    },
+    {
+      "id": 23,
+      "title": "Standing Fan 18\"",
+      "description": "18-inch standing fan with remote control",
+      "price_kobo": 1500000,
+      "currency": "NGN",
+      "sku": "HOME-FAN-18",
+      "inventory_count": 90,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-02-20T10:00:00",
+      "updated_at": "2024-09-28T12:00:00+01:00",
+      "images": ["https://example.com/img/fan.jpg"]
+    },
+    {
+      "id": 24,
+      "title": "Microwave Oven 20L",
+      "description": "Compact microwave with multiple power settings",
+      "price_kobo": 3500000,
+      "currency": "NGN",
+      "sku": "HOME-MICRO-20L",
+      "inventory_count": 45,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-03-01T10:00:00",
+      "updated_at": "2024-10-01T12:00:00+01:00",
+      "images": ["https://example.com/img/microwave.jpg"]
+    },
+    {
+      "id": 25,
+      "title": "Electric Kettle 1.7L",
+      "description": "Fast-boiling electric kettle with auto shut-off",
+      "price_kobo": 950000,
+      "currency": "NGN",
+      "sku": "HOME-KETTLE-17",
+      "inventory_count": 130,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-03-05T10:00:00",
+      "updated_at": "2024-10-02T12:00:00+01:00",
+      "images": ["https://example.com/img/kettle.jpg"]
+    },
+    {
+      "id": 26,
+      "title": "Vacuum Cleaner",
+      "description": "Powerful vacuum cleaner with HEPA filter",
+      "price_kobo": 4200000,
+      "currency": "NGN",
+      "sku": "HOME-VAC-001",
+      "inventory_count": 35,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-03-10T10:00:00",
+      "updated_at": "2024-10-03T12:00:00+01:00",
+      "images": ["https://example.com/img/vacuum.jpg"]
+    },
+    {
+      "id": 27,
+      "title": "Iron Steam",
+      "description": "Steam iron with non-stick plate and temperature control",
+      "price_kobo": 850000,
+      "currency": "NGN",
+      "sku": "HOME-IRON-STEAM",
+      "inventory_count": 105,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-03-15T10:00:00",
+      "updated_at": "2024-10-04T12:00:00+01:00",
+      "images": ["https://example.com/img/iron.jpg"]
+    },
+    {
+      "id": 28,
+      "title": "Dining Table Set 6-Seater",
+      "description": "Modern dining table with 6 chairs",
+      "price_kobo": 12500000,
+      "currency": "NGN",
+      "sku": "HOME-DINING-6S",
+      "inventory_count": 15,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-03-20T10:00:00",
+      "updated_at": "2024-10-05T12:00:00+01:00",
+      "images": ["https://example.com/img/dining-set.jpg"]
+    },
+    {
+      "id": 29,
+      "title": "LED Desk Lamp",
+      "description": "Adjustable LED lamp with USB charging port",
+      "price_kobo": 650000,
+      "currency": "NGN",
+      "sku": "HOME-LAMP-LED",
+      "inventory_count": 140,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-03-25T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/desk-lamp.jpg"]
+    },
+    {
+      "id": 30,
+      "title": "Wall Clock Modern",
+      "description": "Silent wall clock with modern design",
+      "price_kobo": 450000,
+      "currency": "NGN",
+      "sku": "HOME-CLOCK-WALL",
+      "inventory_count": 180,
+      "category_id": 3,
+      "is_active": true,
+      "created_at": "2024-04-01T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/wall-clock.jpg"]
+    },
+    {
+      "id": 31,
+      "title": "Face Cream SPF 30",
+      "description": "Moisturizing face cream with sun protection",
+      "price_kobo": 450000,
+      "currency": "NGN",
+      "sku": "BEAUTY-FACE-01",
+      "inventory_count": 200,
+      "category_id": 4,
+      "is_active": true,
+      "created_at": "2024-03-01T10:00:00",
+      "updated_at": "2024-09-30T12:00:00+01:00",
+      "images": ["https://example.com/img/face-cream.jpg"]
+    },
+    {
+      "id": 32,
+      "title": "Makeup Brush Set",
+      "description": "Professional 12-piece makeup brush set",
+      "price_kobo": 800000,
+      "currency": "NGN",
+      "sku": "BEAUTY-BRUSH-01",
+      "inventory_count": 120,
+      "category_id": 4,
+      "is_active": true,
+      "created_at": "2024-03-05T10:00:00",
+      "updated_at": "2024-10-01T12:00:00+01:00",
+      "images": ["https://example.com/img/brushes.jpg"]
+    },
+    {
+      "id": 33,
+      "title": "Hair Dryer Professional",
+      "description": "2000W professional hair dryer with attachments",
+      "price_kobo": 1600000,
+      "currency": "NGN",
+      "sku": "BEAUTY-HAIR-DRY01",
+      "inventory_count": 55,
+      "category_id": 4,
+      "is_active": true,
+      "created_at": "2024-03-10T10:00:00",
+      "updated_at": "2024-10-02T12:00:00+01:00",
+      "images": ["https://example.com/img/hairdryer.jpg"]
+    },
+    {
+      "id": 34,
+      "title": "Perfume Set Women",
+      "description": "Set of 3 elegant fragrances for women",
+      "price_kobo": 2800000,
+      "currency": "NGN",
+      "sku": "BEAUTY-PERF-WOM3",
+      "inventory_count": 75,
+      "category_id": 4,
+      "is_active": true,
+      "created_at": "2024-03-15T10:00:00",
+      "updated_at": "2024-10-03T12:00:00+01:00",
+      "images": ["https://example.com/img/perfume-set.jpg"]
+    },
+    {
+      "id": 35,
+      "title": "Electric Shaver Men",
+      "description": "Rechargeable electric shaver with precision blades",
+      "price_kobo": 1350000,
+      "currency": "NGN",
+      "sku": "BEAUTY-SHAVE-MEN",
+      "inventory_count": 85,
+      "category_id": 4,
+      "is_active": true,
+      "created_at": "2024-03-20T10:00:00",
+      "updated_at": "2024-10-04T12:00:00+01:00",
+      "images": ["https://example.com/img/shaver.jpg"]
+    },
+    {
+      "id": 36,
+      "title": "Body Lotion 500ml",
+      "description": "Hydrating body lotion with shea butter",
+      "price_kobo": 550000,
+      "currency": "NGN",
+      "sku": "BEAUTY-BODY-LOT",
+      "inventory_count": 160,
+      "category_id": 4,
+      "is_active": true,
+      "created_at": "2024-03-25T10:00:00",
+      "updated_at": "2024-10-05T12:00:00+01:00",
+      "images": ["https://example.com/img/body-lotion.jpg"]
+    },
+    {
+      "id": 37,
+      "title": "Yoga Mat Premium",
+      "description": "Non-slip yoga mat with carrying strap",
+      "price_kobo": 650000,
+      "currency": "NGN",
+      "sku": "SPORT-YOGA-01",
+      "inventory_count": 100,
+      "category_id": 5,
+      "is_active": true,
+      "created_at": "2024-03-15T10:00:00",
+      "updated_at": "2024-10-03T12:00:00+01:00",
+      "images": ["https://example.com/img/yoga-mat.jpg"]
+    },
+    {
+      "id": 38,
+      "title": "Dumbbells Set 10kg",
+      "description": "Pair of 5kg dumbbells with rubber coating",
+      "price_kobo": 1200000,
+      "currency": "NGN",
+      "sku": "SPORT-DUMB-10",
+      "inventory_count": 40,
+      "category_id": 5,
+      "is_active": true,
+      "created_at": "2024-03-20T10:00:00",
+      "updated_at": "2024-10-04T12:00:00+01:00",
+      "images": ["https://example.com/img/dumbbells.jpg"]
+    },
+    {
+      "id": 39,
+      "title": "Resistance Bands Set",
+      "description": "Set of 5 resistance bands with different strengths",
+      "price_kobo": 850000,
+      "currency": "NGN",
+      "sku": "SPORT-RESIS-5",
+      "inventory_count": 90,
+      "category_id": 5,
+      "is_active": true,
+      "created_at": "2024-03-25T10:00:00",
+      "updated_at": "2024-10-05T12:00:00+01:00",
+      "images": ["https://example.com/img/resistance-bands.jpg"]
+    },
+    {
+      "id": 40,
+      "title": "Sports Water Bottle 1L",
+      "description": "Insulated sports bottle with leak-proof cap",
+      "price_kobo": 350000,
+      "currency": "NGN",
+      "sku": "SPORT-BOTTLE-1L",
+      "inventory_count": 220,
+      "category_id": 5,
+      "is_active": true,
+      "created_at": "2024-04-01T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/water-bottle.jpg"]
+    },
+    {
+      "id": 41,
+      "title": "Notebook Pack of 5",
+      "description": "A4 ruled notebooks, 100 pages each",
+      "price_kobo": 250000,
+      "currency": "NGN",
+      "sku": "BOOK-NOTE-A4-5",
+      "inventory_count": 300,
+      "category_id": 6,
+      "is_active": true,
+      "created_at": "2024-04-01T10:00:00",
+      "updated_at": "2024-10-05T12:00:00+01:00",
+      "images": ["https://example.com/img/notebooks.jpg"]
+    },
+    {
+      "id": 42,
+      "title": "The Great Alone - Novel",
+      "description": "Bestselling novel by Kristin Hannah",
+      "price_kobo": 350000,
+      "currency": "NGN",
+      "sku": "BOOK-NOVEL-TGA",
+      "inventory_count": 75,
+      "category_id": 6,
+      "is_active": true,
+      "created_at": "2024-04-05T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/book-great-alone.jpg"]
+    },
+    {
+      "id": 43,
+      "title": "Pen Set Blue Ink",
+      "description": "Pack of 10 ballpoint pens, smooth writing",
+      "price_kobo": 180000,
+      "currency": "NGN",
+      "sku": "BOOK-PEN-BLUE10",
+      "inventory_count": 400,
+      "category_id": 6,
+      "is_active": true,
+      "created_at": "2024-04-10T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/pen-set.jpg"]
+    },
+    {
+      "id": 44,
+      "title": "Baby Stroller Deluxe",
+      "description": "Lightweight foldable baby stroller with canopy",
+      "price_kobo": 8500000,
+      "currency": "NGN",
+      "sku": "BABY-STROLL-DLX",
+      "inventory_count": 25,
+      "category_id": 7,
+      "is_active": true,
+      "created_at": "2024-04-15T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/stroller.jpg"]
+    },
+    {
+      "id": 45,
+      "title": "Baby Diapers Size 4",
+      "description": "Pack of 50 ultra-soft diapers",
+      "price_kobo": 1200000,
+      "currency": "NGN",
+      "sku": "BABY-DIAPER-S4",
+      "inventory_count": 150,
+      "category_id": 7,
+      "is_active": true,
+      "created_at": "2024-04-20T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/diapers.jpg"]
+    },
+    {
+      "id": 46,
+      "title": "Rice 50kg Bag",
+      "description": "Premium long grain white rice",
+      "price_kobo": 6500000,
+      "currency": "NGN",
+      "sku": "GROC-RICE-50K",
+      "inventory_count": 80,
+      "category_id": 8,
+      "is_active": true,
+      "created_at": "2024-04-25T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/rice-bag.jpg"]
+    },
+    {
+      "id": 47,
+      "title": "Vegetable Oil 5L",
+      "description": "Pure vegetable cooking oil",
+      "price_kobo": 1850000,
+      "currency": "NGN",
+      "sku": "GROC-OIL-5L",
+      "inventory_count": 200,
+      "category_id": 8,
+      "is_active": true,
+      "created_at": "2024-05-01T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/veg-oil.jpg"]
+    },
+    {
+      "id": 48,
+      "title": "Car Air Freshener",
+      "description": "Long-lasting car air freshener, multiple scents",
+      "price_kobo": 280000,
+      "currency": "NGN",
+      "sku": "AUTO-FRESH-001",
+      "inventory_count": 350,
+      "category_id": 9,
+      "is_active": true,
+      "created_at": "2024-05-05T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/air-freshener.jpg"]
+    },
+    {
+      "id": 49,
+      "title": "Car Phone Holder",
+      "description": "Universal phone mount for car dashboard",
+      "price_kobo": 450000,
+      "currency": "NGN",
+      "sku": "AUTO-PHONE-HOLD",
+      "inventory_count": 180,
+      "category_id": 9,
+      "is_active": true,
+      "created_at": "2024-05-10T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/phone-holder.jpg"]
+    },
+    {
+      "id": 50,
+      "title": "Vitamin C Tablets",
+      "description": "1000mg Vitamin C supplement, 60 tablets",
+      "price_kobo": 550000,
+      "currency": "NGN",
+      "sku": "HEALTH-VITC-60",
+      "inventory_count": 250,
+      "category_id": 10,
+      "is_active": true,
+      "created_at": "2024-05-15T10:00:00",
+      "updated_at": "2024-10-06T12:00:00+01:00",
+      "images": ["https://example.com/img/vitamin-c.jpg"]
+    }
+  ],
+  "cart": [
+    {
+      "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+      "created_at": "2024-10-01T14:30:00+01:00",
+      "user_id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "session_id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "updated_at": "2024-10-05T16:45:00"
+    },
+    {
+      "id": "f2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+      "created_at": "2024-10-02T11:20:00+01:00",
+      "user_id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "session_id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "updated_at": "2024-10-04T10:30:00"
+    },
+    {
+      "id": "f3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+      "created_at": "2024-10-03T09:15:00+01:00",
+      "user_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "session_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "updated_at": "2024-10-03T09:15:00"
+    },
+    {
+      "id": "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "created_at": "2024-10-03T15:20:00+01:00",
+      "user_id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "session_id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "updated_at": "2024-10-05T14:10:00"
+    },
+    {
+      "id": "f5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+      "created_at": "2024-10-04T08:45:00+01:00",
+      "user_id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "session_id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "updated_at": "2024-10-04T08:45:00"
+    },
+    {
+      "id": "f6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+      "created_at": "2024-10-04T12:30:00+01:00",
+      "user_id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "session_id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "updated_at": "2024-10-06T09:20:00"
+    },
+    {
+      "id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+      "created_at": "2024-10-05T10:15:00+01:00",
+      "user_id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "session_id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "updated_at": "2024-10-05T10:15:00"
+    },
+    {
+      "id": "f8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+      "created_at": "2024-10-05T16:40:00+01:00",
+      "user_id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "session_id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "updated_at": "2024-10-06T08:30:00"
+    },
+    {
+      "id": "f9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+      "created_at": "2024-10-06T07:20:00+01:00",
+      "user_id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
+      "session_id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
+      "updated_at": "2024-10-06T07:20:00"
+    },
+    {
+      "id": "fad1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+      "created_at": "2024-10-06T11:50:00+01:00",
+      "user_id": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
+      "session_id": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
+      "updated_at": "2024-10-06T11:50:00"
+    }
+  ],
+  "cart_item": [
+    {
+      "id": 1,
+      "cart_id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+      "order_id": null,
+      "product_id": 4,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "cart_id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+      "order_id": null,
+      "product_id": 31,
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "cart_id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+      "order_id": null,
+      "product_id": 41,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "cart_id": "f2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+      "order_id": null,
+      "product_id": 1,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "cart_id": "f2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+      "order_id": null,
+      "product_id": 13,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "cart_id": "f3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+      "order_id": null,
+      "product_id": 37,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "cart_id": "f3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+      "order_id": null,
+      "product_id": 38,
+      "quantity": 2
+    },
+    {
+      "id": 8,
+      "cart_id": "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "order_id": null,
+      "product_id": 24,
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "cart_id": "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "order_id": null,
+      "product_id": 25,
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "cart_id": "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "order_id": null,
+      "product_id": 27,
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "cart_id": "f5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+      "order_id": null,
+      "product_id": 9,
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "cart_id": "f6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+      "order_id": null,
+      "product_id": 12,
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "cart_id": "f6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+      "order_id": null,
+      "product_id": 14,
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "cart_id": "f6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+      "order_id": null,
+      "product_id": 16,
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "cart_id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+      "order_id": null,
+      "product_id": 46,
+      "quantity": 2
+    },
+    {
+      "id": 16,
+      "cart_id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+      "order_id": null,
+      "product_id": 47,
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "cart_id": "f8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+      "order_id": null,
+      "product_id": 44,
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "cart_id": "f8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+      "order_id": null,
+      "product_id": 45,
+      "quantity": 3
+    },
+    {
+      "id": 19,
+      "cart_id": "f9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+      "order_id": null,
+      "product_id": 5,
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "cart_id": "fad1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+      "order_id": null,
+      "product_id": 50,
+      "quantity": 2
+    }
+  ],
+  "order": [
+    {
+      "id": "a1a1a1a1-b2b2-4c3c-d4d4-e5e5e5e5e5e5",
+      "user_id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "total_kobo": 3750000,
+      "currency": "NGN",
+      "status": "delivered",
+      "shipping_address": "123 Ikeja Way, Lagos State, Nigeria",
+      "payment_method": "card",
+      "created_at": "2024-09-10T15:20:00+01:00",
+      "updated_at": "2024-09-15T10:30:00"
+    },
+    {
+      "id": "b2b2b2b2-c3c3-4d4d-e5e5-f6f6f6f6f6f6",
+      "user_id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "total_kobo": 2050000,
+      "currency": "NGN",
+      "status": "delivered",
+      "shipping_address": "45 Victoria Island, Lagos State, Nigeria",
+      "payment_method": "transfer",
+      "created_at": "2024-09-15T10:45:00+01:00",
+      "updated_at": "2024-09-20T14:20:00"
+    },
+    {
+      "id": "c3c3c3c3-d4d4-4e5e-f6f6-a7a7a7a7a7a7",
+      "user_id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "total_kobo": 75000000,
+      "currency": "NGN",
+      "status": "shipped",
+      "shipping_address": "78 Wuse Zone 2, Abuja, Nigeria",
+      "payment_method": "card",
+      "created_at": "2024-09-20T14:30:00+01:00",
+      "updated_at": "2024-09-25T09:15:00"
+    },
+    {
+      "id": "d4d4d4d4-e5e5-4f6f-a7a7-b8b8b8b8b8b8",
+      "user_id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "total_kobo": 7250000,
+      "currency": "NGN",
+      "status": "delivered",
+      "shipping_address": "12 Ring Road, Ibadan, Oyo State, Nigeria",
+      "payment_method": "card",
+      "created_at": "2024-09-25T11:00:00+01:00",
+      "updated_at": "2024-09-30T16:45:00"
+    },
+    {
+      "id": "e5e5e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+      "user_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "total_kobo": 6400000,
+      "currency": "NGN",
+      "status": "processing",
+      "shipping_address": "90 Stadium Road, Port Harcourt, Rivers State, Nigeria",
+      "payment_method": "transfer",
+      "created_at": "2024-10-01T09:30:00+01:00",
+      "updated_at": "2024-10-01T09:30:00"
+    },
+    {
+      "id": "a6a6a6a6-b7b7-4c8c-d9d9-e0e0e0e0e0e0",
+      "user_id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "total_kobo": 11700000,
+      "currency": "NGN",
+      "status": "delivered",
+      "shipping_address": "56 Ahmadu Bello Way, Kaduna, Nigeria",
+      "payment_method": "card",
+      "created_at": "2024-09-18T13:15:00+01:00",
+      "updated_at": "2024-09-23T11:00:00"
+    },
+    {
+      "id": "b7b7b7b7-c8c8-4d9d-e0e0-f1f1f1f1f1f1",
+      "user_id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "total_kobo": 4950000,
+      "currency": "NGN",
+      "status": "shipped",
+      "shipping_address": "34 Awolowo Road, Ikoyi, Lagos, Nigeria",
+      "payment_method": "transfer",
+      "created_at": "2024-09-28T16:20:00+01:00",
+      "updated_at": "2024-10-02T10:15:00"
+    },
+    {
+      "id": "c8c8c8c8-d9d9-4e0e-f1f1-a2a2a2a2a2a2",
+      "user_id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "total_kobo": 3300000,
+      "currency": "NGN",
+      "status": "delivered",
+      "shipping_address": "89 Independence Layout, Enugu, Nigeria",
+      "payment_method": "card",
+      "created_at": "2024-09-22T10:30:00+01:00",
+      "updated_at": "2024-09-27T14:45:00"
+    },
+    {
+      "id": "d9d9d9d9-e0e0-4f1f-a2a2-b3b3b3b3b3b3",
+      "user_id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "total_kobo": 8700000,
+      "currency": "NGN",
+      "status": "cancelled",
+      "shipping_address": "23 Adeola Odeku Street, Victoria Island, Lagos, Nigeria",
+      "payment_method": "card",
+      "created_at": "2024-09-12T14:50:00+01:00",
+      "updated_at": "2024-09-13T09:20:00"
+    },
+    {
+      "id": "e0e0e0e0-f1f1-4a2a-b3b3-c4c4c4c4c4c4",
+      "user_id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "total_kobo": 1600000,
+      "currency": "NGN",
+      "status": "delivered",
+      "shipping_address": "67 Azikiwe Road, Aba, Abia State, Nigeria",
+      "payment_method": "transfer",
+      "created_at": "2024-09-05T11:40:00+01:00",
+      "updated_at": "2024-09-10T15:30:00"
+    }
+  ],
+  "order_item": [
+    {
+      "id": "11111111-2222-4333-4444-555555555555",
+      "order_id": "a1a1a1a1-b2b2-4c3c-d4d4-e5e5e5e5e5e5",
+      "product_id": 13,
+      "quantity": 1,
+      "unit_price_kobo": 3500000
+    },
+    {
+      "id": "22222222-3333-4444-5555-666666666666",
+      "order_id": "a1a1a1a1-b2b2-4c3c-d4d4-e5e5e5e5e5e5",
+      "product_id": 41,
+      "quantity": 1,
+      "unit_price_kobo": 250000
+    },
+    {
+      "id": "33333333-4444-5555-6666-777777777777",
+      "order_id": "b2b2b2b2-c3c3-4d4d-e5e5-f6f6f6f6f6f6",
+      "product_id": 22,
+      "quantity": 1,
+      "unit_price_kobo": 1800000
+    },
+    {
+      "id": "44444444-5555-6666-7777-888888888888",
+      "order_id": "b2b2b2b2-c3c3-4d4d-e5e5-f6f6f6f6f6f6",
+      "product_id": 41,
+      "quantity": 1,
+      "unit_price_kobo": 250000
+    },
+    {
+      "id": "55555555-6666-7777-8888-999999999999",
+      "order_id": "c3c3c3c3-d4d4-4e5e-f6f6-a7a7a7a7a7a7",
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price_kobo": 75000000
+    },
+    {
+      "id": "66666666-7777-8888-9999-aaaaaaaaaaaa",
+      "order_id": "d4d4d4d4-e5e5-4f6f-a7a7-b8b8b8b8b8b8",
+      "product_id": 11,
+      "quantity": 2,
+      "unit_price_kobo": 850000
+    },
+    {
+      "id": "77777777-8888-9999-aaaa-bbbbbbbbbbbb",
+      "order_id": "d4d4d4d4-e5e5-4f6f-a7a7-b8b8b8b8b8b8",
+      "product_id": 12,
+      "quantity": 1,
+      "unit_price_kobo": 1200000
+    },
+    {
+      "id": "88888888-9999-aaaa-bbbb-cccccccccccc",
+      "order_id": "d4d4d4d4-e5e5-4f6f-a7a7-b8b8b8b8b8b8",
+      "product_id": 21,
+      "quantity": 2,
+      "unit_price_kobo": 2200000
+    },
+    {
+      "id": "99999999-aaaa-bbbb-cccc-dddddddddddd",
+      "order_id": "e5e5e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+      "product_id": 23,
+      "quantity": 2,
+      "unit_price_kobo": 1500000
+    },
+    {
+      "id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+      "order_id": "e5e5e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+      "product_id": 33,
+      "quantity": 1,
+      "unit_price_kobo": 1600000
+    },
+    {
+      "id": "bbbbbbbb-cccc-dddd-eeee-ffffffffffff",
+      "order_id": "e5e5e5e5-f6f6-4a7a-b8b8-c9c9c9c9c9c9",
+      "product_id": 32,
+      "quantity": 2,
+      "unit_price_kobo": 800000
+    },
+    {
+      "id": "cccccccc-dddd-eeee-ffff-000000000000",
+      "order_id": "a6a6a6a6-b7b7-4c8c-d9d9-e0e0e0e0e0e0",
+      "product_id": 3,
+      "quantity": 1,
+      "unit_price_kobo": 55000000
+    },
+    {
+      "id": "dddddddd-eeee-ffff-0000-111111111111",
+      "order_id": "a6a6a6a6-b7b7-4c8c-d9d9-e0e0e0e0e0e0",
+      "product_id": 6,
+      "quantity": 1,
+      "unit_price_kobo": 850000
+    },
+    {
+      "id": "eeeeeeee-ffff-0000-1111-222222222222",
+      "order_id": "a6a6a6a6-b7b7-4c8c-d9d9-e0e0e0e0e0e0",
+      "product_id": 8,
+      "quantity": 1,
+      "unit_price_kobo": 1200000
+    },
+    {
+      "id": "ffffffff-0000-1111-2222-333333333333",
+      "order_id": "b7b7b7b7-c8c8-4d9d-e0e0-f1f1f1f1f1f1",
+      "product_id": 5,
+      "quantity": 1,
+      "unit_price_kobo": 4500000
+    },
+    {
+      "id": "00000000-1111-2222-3333-444444444444",
+      "order_id": "b7b7b7b7-c8c8-4d9d-e0e0-f1f1f1f1f1f1",
+      "product_id": 31,
+      "quantity": 1,
+      "unit_price_kobo": 450000
+    },
+    {
+      "id": "10101010-1111-2222-3333-444444444444",
+      "order_id": "c8c8c8c8-d9d9-4e0e-f1f1-a2a2a2a2a2a2",
+      "product_id": 18,
+      "quantity": 1,
+      "unit_price_kobo": 1350000
+    },
+    {
+      "id": "20202020-2222-3333-4444-555555555555",
+      "order_id": "c8c8c8c8-d9d9-4e0e-f1f1-a2a2a2a2a2a2",
+      "product_id": 15,
+      "quantity": 1,
+      "unit_price_kobo": 1500000
+    },
+    {
+      "id": "30303030-3333-4444-5555-666666666666",
+      "order_id": "c8c8c8c8-d9d9-4e0e-f1f1-a2a2a2a2a2a2",
+      "product_id": 31,
+      "quantity": 1,
+      "unit_price_kobo": 450000
+    },
+    {
+      "id": "40404040-4444-5555-6666-777777777777",
+      "order_id": "e0e0e0e0-f1f1-4a2a-b3b3-c4c4c4c4c4c4",
+      "product_id": 33,
+      "quantity": 1,
+      "unit_price_kobo": 1600000
+    }
+  ],
+  "refresh_tokens": [
+    {
+      "user_id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "expires_at": "2024-11-06T10:30:00+01:00",
+      "token_hash": "$2a$10$hashedtoken1234567890abcdef"
+    },
+    {
+      "user_id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "expires_at": "2024-11-06T14:15:00+01:00",
+      "token_hash": "$2a$10$hashedtoken2345678901bcdefg"
+    },
+    {
+      "user_id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "expires_at": "2024-11-06T09:45:00+01:00",
+      "token_hash": "$2a$10$hashedtoken3456789012cdefgh"
+    },
+    {
+      "user_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "expires_at": "2024-11-06T16:30:00+01:00",
+      "token_hash": "$2a$10$hashedtoken5678901234efghij"
+    },
+    {
+      "user_id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "expires_at": "2024-11-06T13:20:00+01:00",
+      "token_hash": "$2a$10$hashedtoken6789012345fghijk"
+    }
+  ]
+}

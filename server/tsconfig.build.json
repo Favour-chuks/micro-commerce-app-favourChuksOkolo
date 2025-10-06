@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.dev.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "declaration": true,
+    "sourceMap": true,
+    "allowImportingTsExtensions": false // prod build shouldn't output .ts extensions
+  }
+}
